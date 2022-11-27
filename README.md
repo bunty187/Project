@@ -1,4 +1,4 @@
-# This is a House price prediction project using different Machine Algorithm used.
+# This is a House price prediction project using different Machine Learning Algorithm used.
 
 ## Getting Started
 
